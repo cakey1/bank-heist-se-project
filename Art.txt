@@ -1,0 +1,17 @@
+Art/RightSide1.png*r9
+Art/RightSide2.png*r11
+Art/RightSide3.png*r12
+Art/LeftSide1.png*r13
+Art/LeftSide2.png*r15
+Art/LeftSide3.png*r16
+Art/FrontSide2.png*r2
+Art/FrontSide3.png*r3
+Art/BackSide1.png*r4
+Art/BackSide2.png*r5
+Art/BackSide3.png*r6
+Art/FrontSide1.png*r1
+Art/background.png*r8
+Art/moneybag1.png*r7
+Art/RightSide4.png*r10
+Art/LeftSide4.png*r14
+Art/exit.png*r17
