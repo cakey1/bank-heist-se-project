@@ -27,9 +27,10 @@ public class GuessingGame {
             }
         }
 
-        scanner.close();//IEWBHC
+        scanner.close();//IEWBH
     }
 }
+
 
 
 
